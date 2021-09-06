@@ -5,7 +5,7 @@
 
     <div class="bottom">
         <div id="logo">
-            <a href="{{route('to-home')}}"><img src="" alt=""></a>
+            <a href="{{route('to-home')}}"><img src="{{ asset('img/dc-logo.png')}}" alt=""></a>
         </div>
         
         <nav>

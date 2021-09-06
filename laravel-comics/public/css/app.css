@@ -27,6 +27,7 @@ a img {
 }
 
 ul {
+  width: 6;
   list-style: none;
   font-weight: 700;
   text-transform: uppercase;
